@@ -25,7 +25,7 @@ namespace Vezba1
                 Console.WriteLine(VARIABLE);
             }
 
-              
+               
 
             MyEnum ee;
             Enum.TryParse("1", out ee);
